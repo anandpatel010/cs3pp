@@ -3,7 +3,7 @@
 This assignment was completed as part of the coursework for my Bachelor of Science (B.Sc.) degree in Computer Science.
 
 # Grade
-84/100 (First Class)
+85/100 (First Class)
 
 # Feedback
 See graded submission
